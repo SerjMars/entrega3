@@ -1,0 +1,22 @@
+.logo {
+    height: 100px;
+}
+
+.slider {
+    width: 100%;
+}
+
+.vizprev {
+    background-color: #f4f4f5;
+    border: 1px solid gray;
+}
+
+.ejes line {
+    stroke: #d4dceb;
+    stroke-width: 1px;
+}
+
+.ejes {
+    font-family: 'Antic Slab';
+    font-size: 10px;
+}
